@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stg_adventureworkslt_customers
+    description: adventure customers that buy from our store
